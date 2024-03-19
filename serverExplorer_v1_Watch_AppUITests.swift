@@ -2,7 +2,7 @@
 //  serverExplorer_v1_Watch_AppUITests.swift
 //  serverExplorer-v1 Watch AppUITests
 //
-//  Created by jim on 10/1/23.
+//  testing a "watch only" meaning not needing your iPhone and "watch-only" Bitcoin block explorer on watch, allowing you to check your wallet status
 //
 
 import XCTest
